@@ -1,0 +1,141 @@
+Name of App :-Instagram
+Description of App :-
+Instagram is a simple way to capture and share the worldâ€™s moments. Follow your friends and family to see what theyâ€™re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 500 million people and express yourself by sharing all the moments of your dayâ€“â€“the highlights and everything in between, too.Use Instagram to:â€¢	Post photos and videos you want to keep on your profile grid. Edit them with filters and creative tools and combine multiple clips into one video.â€¢	Share multiple photos and videos (as many as you want!) to your story. Bring them to life with text and drawing tools. They disappear after 24 hours and won't appear on your profile grid or in feed. â€¢	Go live to connect with your friends and followers right now. When you're done, live stories disappear.â€¢	Send disappearing photos and videos, text messages and posts from your feed to groups and friends with Instagram Direct.â€¢	Watch stories and live videos from the people you follow in a bar at the top of your feed.â€¢	Discover stories, photos and videos you might like and follow new accounts on the Explore tab.
+Permissions of App :-
+[
+
+This app has access to:
+
+![](https://lh3.googleusercontent.com/AUs-
+Fih7eEfuhp-4lYGGK65UvYQ2K6qaKi0dRUipSmiac-QL94IbT-
+XylwOgMoaYBDLuGOz1l5Yn_K6z1NM=s20-rw)Identity
+
+  * find accounts on the device
+  * read your own contact card
+
+![](https://lh3.googleusercontent.com/c5fJsmDZCeHY1tZmeGXL12sHi8herULd72A_egjaAHylmgM-4gLiw4CuDJSzNnK5q8yxAAy4RyxtkdYzcg=s20-rw)Contacts
+
+  * find accounts on the device
+  * read your contacts
+
+![](https://lh3.googleusercontent.com/4rkEm_eN4F8lAtqf1avrqAQ49_IjMjRduxI5szmftCXmKzSaLsNScjM5DSGQp2qtI5R_fqj8j7aJi_G3dg=s20-rw)Location
+
+  * precise location (GPS and network-based)
+
+![](https://lh3.googleusercontent.com/T0FSi5cHSE6ZmXMZAv0tidh8XAQWi7_WqbhtZ1XfNYhLJyOfudKVtiySoaBhBku4bzpRZTnddzjL1A-D=s20-rw)SMS
+
+  * receive text messages (SMS)
+
+![](https://lh3.googleusercontent.com/QDYtvjtZon4TYi4-wkvfIqszmmJL258051XdtozjpIZVH-8zVoay1oBS9vw7lzDYYaDz48AzxmOY040lNqc=s20-rw)Phone
+
+  * directly call phone numbers
+  * read phone status and identity
+
+![](https://lh3.googleusercontent.com/pHtIujPWxciAZcfYSwlrGGq14Z984rKLMgcm9RPATLiOlbrWy-
+tVlelEWgED7gpktgcD1tZizVeHiO5fkw=s20-rw)Photos/Media/Files
+
+  * read the contents of your USB storage
+  * modify or delete the contents of your USB storage
+
+![](https://lh3.googleusercontent.com/aWNKQedLTpw6u6yyMjQObmuoKu67A1czWnIcvID86oAmMT02r5mNdRn6l9ZN2t2MIyH6tNy-01v7ukeQ=s20-rw)Storage
+
+  * read the contents of your USB storage
+  * modify or delete the contents of your USB storage
+
+![](https://lh3.googleusercontent.com/xbP_oGuJ21iG29iVh0p-UIZPzi_fYj8PMYiqDd9-LvaZ_a1tRcwp0I2-arfXvgX9YtfZTTaqwcLRWPNQM_c=s20-rw)Camera
+
+  * take pictures and videos
+
+![](https://lh3.googleusercontent.com/daUjqbSOr2QpaqXS2HQbNzYzzqN2yWGzM_7AZxwFaWLT7_kIhX95HKi_HSpjeeQDOmFMENZxJqblbu_4qg=s20-rw)Microphone
+
+  * record audio
+
+![](https://lh3.googleusercontent.com/l2htRLV5Mt-
+RZ6nroJCXy3OF_CqdntOsEetnLEjH1wC-
+WJWV00R5orcBWj0NMFKJVEQU6JhPYRBCKnj3_Q=s20-rw)Device ID & call information
+
+  * read phone status and identity
+
+![](https://lh3.googleusercontent.com/BAH0TYCVcT4bH2ErsHtCEbO-1Tr5O5Hjwst6AFghZQt5pI8NkfonAsmYfnvj939aqSVtbuM81B38AB0GYQ=s20-rw)Device
+& app history
+
+  * retrieve running apps
+
+Other
+
+  * receive data from Internet
+  * read frame buffer
+  * change screen orientation
+  * view network connections
+  * pair with Bluetooth devices
+  * access Bluetooth settings
+  * connect and disconnect from Wi-Fi
+  * full network access
+  * change your audio settings
+  * run at startup
+  * use accounts on the device
+  * control vibration
+  * prevent device from sleeping
+  * install shortcuts
+  * uninstall shortcuts
+  * view network connections
+  * full network access
+  * run at startup
+  * prevent device from sleeping
+  * view network connections
+  * read battery statistics
+  * full network access
+  * run at startup
+  * prevent device from sleeping
+  * view network connections
+  * read battery statistics
+  * full network access
+  * prevent device from sleeping
+
+]
+
+
+
+Name of App :-Learn Kali Linux
+Description of App :-
+This application allows users to learn Kali Linux and all the topics related to it in a step by step hierarchy manner.Efforts have been made to make the application very user friendly and intuitive with a great user interface that makes it easy for you to learn through this app. This app provides an excellent tutorial on Kali Linux basics and also with the core Kali Linux concepts.This application is also made in a manner to help out all the  students who wish to study Kali Linux on a go with a pocket sized Kali Linux book in your smart phone. Learn Kali Linux is an ethical hacking tutorial app that provides advance knowledge aboutâ–ºEthical Hackingâ–ºcomputer programmingâ–ºcomputer security crackingâ–ºexploits weakness in a computer system or computer networkâ–ºModify computer appearance in (windows)â–ºCreate many types computer virus (destructive virus or files stealer virus,etc)â–ºModify gamesâ–ºhow to plays with the codings of reg,bat,vbs,jar,html,php etcâ–ºAndroid tricksâ–ºScripting tutorialâ–ºNetworking tutorialâ–ºPc tricksâ–ºKali linux tutorialâ–ºCommands tutorialâ–ºRegistry hacksâ–ºOperating systemâ–ºSoftware informationâ–ºHackers infoDisclaimer'Learn Kali Linux' is an app related to ethical hacking and not an app that promotes Hacking / Cracking / Software policy.The 'Developer and Learn kali linux app' will not be responsible for any criminal charges be brought against any individuals for misusing the information in this app and breaking the law.
+Permissions of App :-
+[
+
+This app has access to:
+
+![](https://lh3.googleusercontent.com/AUs-
+Fih7eEfuhp-4lYGGK65UvYQ2K6qaKi0dRUipSmiac-QL94IbT-
+XylwOgMoaYBDLuGOz1l5Yn_K6z1NM=s20-rw)Identity
+
+  * find accounts on the device
+
+![](https://lh3.googleusercontent.com/c5fJsmDZCeHY1tZmeGXL12sHi8herULd72A_egjaAHylmgM-4gLiw4CuDJSzNnK5q8yxAAy4RyxtkdYzcg=s20-rw)Contacts
+
+  * find accounts on the device
+
+![](https://lh3.googleusercontent.com/pHtIujPWxciAZcfYSwlrGGq14Z984rKLMgcm9RPATLiOlbrWy-
+tVlelEWgED7gpktgcD1tZizVeHiO5fkw=s20-rw)Photos/Media/Files
+
+  * read the contents of your USB storage
+  * modify or delete the contents of your USB storage
+
+![](https://lh3.googleusercontent.com/aWNKQedLTpw6u6yyMjQObmuoKu67A1czWnIcvID86oAmMT02r5mNdRn6l9ZN2t2MIyH6tNy-01v7ukeQ=s20-rw)Storage
+
+  * read the contents of your USB storage
+  * modify or delete the contents of your USB storage
+
+Other
+
+  * receive data from Internet
+  * view network connections
+  * full network access
+  * prevent device from sleeping
+
+]
+
+
+
+Name of App :-Google Assistant
+Description of App :-
+The Google Assistant app provides another way to launch the Assistant thatâs already available on your phone. It allows you to quickly access your Google Assistant with one tap. You can still access your Assistant by pressing and holding down your home button or by simply saying, "Hey Google."Remind yourself to send a birthday card, make calls hands free during your commute, and unwind by playing your favorite tunes. You personal Google is here to help. Ask your Google Assistant questions and get things done. Use it anytime, anywhere.With the Google Assistant, you can:  â˘ Make quick phone calls on the go ("Call Mom")  â˘ Send text messages ("Text Sara I am running late")  â˘ Set reminders ("Remind me to buy a birthday gift for John")  â˘ Take a selfie ("Take a selfie")  â˘ Set calendar events ("Set a calendar event for dinner with Charlie tomorrow from 7-9")  â˘ Play music ("Play jazz music on YouTube")  â˘ Navigate places ("Get me directions home")  â˘ Weather information ("Do I need an umbrella today?")  â˘ Receive updates on the latest news ("Tell me the news")* Your device must still meet the requirements in order to use the Google Assistant (Google Search v7.11 or higher and minimum memory requirements).* You do not need this app to use the Google Assistant if you already have the Google Assistant on your device.
